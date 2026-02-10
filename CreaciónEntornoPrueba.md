@@ -287,7 +287,7 @@ Para usarlo tendremos que ejecutarlo con un nombre de carpeta que se creará y c
 ```
 ![](img/8.png)
 
--El segundo script tiene por nombre`restaurarConfiguracionOriginal.sh` y restaura la configuración original para deshacer los cambios que hayamos hecho en una actividad.
+El segundo script tiene por nombre`restaurarConfiguracionOriginal.sh` y restaura la configuración original para deshacer los cambios que hayamos hecho en una actividad.
 Crea el archivo y copia el contenido en su interior:
 
 ```bash

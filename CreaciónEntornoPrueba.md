@@ -330,7 +330,7 @@ Para usarlo, solo hay que ejecutarlo.
 ./restaurarConfiguracionOriginal.sh
 ```
 
-## Entorno ya contruido
+## Entorno ya construido
 
 Tenemos creados diferentes volúmenes bind mount, por lo tanto la configuración, datos de BBDD, etc se van a guardar en nuestro sistema anfitrión, concretamente las carpetas: `config`, `data`, `logs` y `www`.
 
